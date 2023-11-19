@@ -50,7 +50,7 @@ checkpoints/
 
 清华大学计算机系图形学实验室从Flickr官网收集了12000张高清（宽512、高384）的风景图片，并制作了它们的语义分割图。其中，10000对图片被用来训练。
 
-训练数据集可以从[这里](https://pan.baidu.com/s/1KR_Q1MEGIdXP-9K5stuo1Q?pwd=vvnw)下载。
+训练数据集可以从[这里](https://pan.baidu.com/s/1lzoYlda6rj53Fw3BSgn6Ug?pwd=vhy6)下载。
 
 A/B榜测试集可以从[这里](https://pan.baidu.com/s/1ak5nGQwBFV3WgkWHB-1UIg?pwd=mhwa)下载。
 
